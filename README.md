@@ -6,22 +6,6 @@ I’m a **3rd Year Computer Science student** at Ateneo de Manila University, sp
 
 ---
 
-## 🚀 Projects
-
-### 📊 Data Visualization Project
-A project showcasing **interactive data visualizations** using Python libraries and web dashboards to uncover insights from complex datasets.  
-[View Project →](https://github.com/YOUR_USERNAME/data-viz-project)
-
-### 📝 Social Computing Research Paper
-A collaborative project exploring **social computing trends and user behavior**, combining **data analysis, surveys, and actionable insights**.  
-[View Project →](https://github.com/YOUR_USERNAME/social-computing-paper)
-
-### 🎮 Video Game Experiment
-Mini-game projects inspired by **video games as artistic expression**, exploring **interactive storytelling and personalized experiences**.  
-[View Project →](https://github.com/YOUR_USERNAME/game-dev-experiments)
-
----
-
 ## 🎨 About Me
 - 💻 Currently exploring **web development, business intelligence, machine learning, and big data methodologies**  
 - 🎮 Inspired by **video games as a medium for personal expression**  
@@ -30,6 +14,25 @@ Mini-game projects inspired by **video games as artistic expression**, exploring
 
 ---
 
+## 🚀 Projects
+
+### 📊 PPop Insights Dashboard
+**Tableau, Python, Streamlit, Pandas, NumPy**  
+Developed an **interactive Streamlit dashboard** to visualize social media engagement and musical analytics for 15 PPop idol groups, initially built in Tableau and later migrated to Streamlit. Users can **explore fan engagement patterns and musical characteristics** through intuitive, interactive charts and filters.  
+[View Project →](https://github.com/YOUR_USERNAME/ppop-insights-dashboard)
+
+### 📝 Mapping News Coverage of Marcos’ First Six Months (2025)
+**Python, scikit-learn, NLTK, AutoMap, ORA**  
+Collected and analyzed online articles covering Marcos’ first six months in office using **LDA topic modeling and social network analysis** to uncover dominant themes, key actors, and information flows. This project **mapped monthly shifts in media framing and narrative focus**, highlighting evolving topics and influential figures over time.  
+[View Project →](https://github.com/YOUR_USERNAME/marcos-news-coverage)
+
+### 🎮 Video Game Experiment
+**Python / Game Dev tools**  
+Mini-game projects inspired by **video games as artistic expression**, exploring **interactive storytelling and personalized experiences**.  
+[View Project →](https://github.com/YOUR_USERNAME/game-dev-experiments)
+
+
+---
 
 ## 🔧 Tech Stack
 
