@@ -30,7 +30,6 @@ Mini-game projects inspired by **video games as artistic expression**, exploring
 
 ---
 
-## 🔧 Tech Stack
 
 ## 🔧 Tech Stack
 
@@ -60,12 +59,12 @@ Mini-game projects inspired by **video games as artistic expression**, exploring
 ---
 
 ## 📈 GitHub Stats
-![Elly's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Elly's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellyyy-son&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ellyyy-son&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=about.me&logoColor=white)](https://YOUR_PORTFOLIO_URL.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hubert-olegario)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ellyyy_son)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=about.me&logoColor=white)](https://www.ellyson.dev/)
