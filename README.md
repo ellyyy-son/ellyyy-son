@@ -1,11 +1,11 @@
-# Hi there 👋, I'm Hubert Olegario
+# Hi there 👋, I'm Elly Olegario
 
-Welcome to my GitHub! I’m a **Computer Science student** passionate about **game development, creative coding, and digital art**.  
+Welcome to my GitHub! I’m currently a 3rd Year **Computer Science student** in Ateneo de Manila University, specializing in both Data Science and Analytics (DSA) amd Enterprise Systems (ES). I'm passionate about web development and data science.  
 
 ---
 
 ## 🎨 About Me
-- 💻 Currently exploring **AI, advanced algorithms, and web dev**  
+- 💻 Currently exploring **web development, business intelligence, machine learning, and big data methodologies**  
 - 🎮 Inspired by **video games as a medium for personal expression**  
 - 🎵 Love music and experimenting with **sound simulations**  
 - 🌱 Always learning and growing my **coding & creative skills**  
@@ -40,11 +40,6 @@ Mini-game projects inspired by **video games as artistic expression**, exploring
 ## 📈 GitHub Stats
 ![Hubert's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
----
-
-## ✨ Fun Fact
-![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
 
 ---
 
