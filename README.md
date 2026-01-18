@@ -9,7 +9,7 @@ I’m a **3rd Year Computer Science student** at Ateneo de Manila University, sp
 ## 🎨 About Me
 - 💻 I’m currently diving into **web development, business intelligence, machine learning, and big data methodologies**
 - 🎮 I love **video games**, especially **Nintendo titles**! I especially love Pokemon:D ⚡🐹
-- 🎌 I'm a Huge fan of **J-Media**, including **Jpop, anime, and manga**. Due to this, I am currently taking 日本語 lessons　🌸
+- 🎌 I'm a Huge fan of **J-Media**, including **J-Pop, anime, and manga**. Due to this, I am currently taking 日本語 lessons　🌸
 - 🌱 I enjoy **building random, fun little projects from time-to-time** ✨
 
 ---
