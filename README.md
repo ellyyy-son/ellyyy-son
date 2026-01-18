@@ -26,12 +26,6 @@ Developed an **interactive Streamlit dashboard** to visualize social media engag
 Collected and analyzed online articles covering Marcos’ first six months in office using **LDA topic modeling and social network analysis** to uncover dominant themes, key actors, and information flows. This project **mapped monthly shifts in media framing and narrative focus**, highlighting evolving topics and influential figures over time.  
 [View Project →](https://github.com/ellyyy-son/marcos-news-coverage)
 
-### 🎮 Video Game
-**Python / Game Dev tools**  
-Mini-game projects inspired by **video games as artistic expression**, exploring **interactive storytelling and personalized experiences**.  
-[View Project →](https://github.com/YOUR_USERNAME/game-dev-experiments)
-
-
 ---
 
 ## 🔧 Tech Stack
