@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Elly Olegario
 
-Welcome to my GitHub! I’m currently a 3rd Year **Computer Science student** in Ateneo de Manila University, specializing in both Data Science and Analytics (DSA) amd Enterprise Systems (ES). I'm passionate about web development and data science.  
+Welcome to my GitHub! 
+
+I’m currently a 3rd Year **Computer Science student** in Ateneo de Manila University, specializing in both Data Science and Analytics (DSA) amd Enterprise Systems (ES). I'm passionate about web development and data science.  
 
 ---
 
@@ -38,8 +40,8 @@ Mini-game projects inspired by **video games as artistic expression**, exploring
 ---
 
 ## 📈 GitHub Stats
-![Hubert's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Hubert's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellyyy-son&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ellyyy-son&layout=compact&theme=radical)
 
 ---
 
