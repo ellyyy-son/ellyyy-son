@@ -12,8 +12,7 @@ I’m a **3rd Year Computer Science student** at Ateneo de Manila University, sp
 - 🎌 I'm a Huge fan of **J-Media**, including **Jpop, anime, and manga**. Due to this, I am currently taking 日本語 lessons　🌸
 - 🌱 I enjoy **building random, fun little projects** ✨
 
-## 🎵 Currently Listening
-[クリフハンガー – 日向坂46](https://open.spotify.com/track/3Kljew0xyUD0fWUrk2Kj0S?si=83ef882df0ed4f10)
+🎵 Currently listening to:[クリフハンガー – 日向坂46](https://open.spotify.com/track/3Kljew0xyUD0fWUrk2Kj0S?si=83ef882df0ed4f10)
 
 ---
 
