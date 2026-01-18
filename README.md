@@ -12,6 +12,13 @@ I’m a **3rd Year Computer Science student** at Ateneo de Manila University, sp
 - 🎵 Love music and experimenting with **sound simulations**  
 - 🌱 Always learning and growing my **coding & creative skills**  
 
+## 🎨 About Me
+- 💻 I’m currently diving into **web development, business intelligence, machine learning, and big data methodologies**
+- 🎮 I love **video games**, especially **Nintendo titles**! I especially love Pokemon:D ⚡🐹
+- 🎌 I'm a Huge fan of **J-Media**, including **Jpop, anime, and manga**. Due to this, I am currently taking 日本語 lessons.　🌸
+- 🌱 I enjoy **building random, fun little projects** ✨
+
+[![Spotify](https://img.shields.io/badge/Listen%20on-Spotify-green?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/…)  
 ---
 
 ## 🚀 Projects
@@ -19,12 +26,12 @@ I’m a **3rd Year Computer Science student** at Ateneo de Manila University, sp
 ### 📊 PPop Insights Dashboard
 **Tableau, Python, Streamlit, Pandas, NumPy**  
 Developed an **interactive Streamlit dashboard** to visualize social media engagement and musical analytics for 15 PPop idol groups, initially built in Tableau and later migrated to Streamlit. Users can **explore fan engagement patterns and musical characteristics** through intuitive, interactive charts and filters.  
-[View Project →](https://github.com/YOUR_USERNAME/ppop-insights-dashboard)
+[View Project →](https://github.com/ellyyy-son/ppop-dashboard/)
 
 ### 📝 Mapping News Coverage of Marcos’ First Six Months (2025)
 **Python, scikit-learn, NLTK, AutoMap, ORA**  
 Collected and analyzed online articles covering Marcos’ first six months in office using **LDA topic modeling and social network analysis** to uncover dominant themes, key actors, and information flows. This project **mapped monthly shifts in media framing and narrative focus**, highlighting evolving topics and influential figures over time.  
-[View Project →](https://github.com/YOUR_USERNAME/marcos-news-coverage)
+[View Project →](https://github.com/ellyyy-son/marcos-news-coverage)
 
 ### 🎮 Video Game Experiment
 **Python / Game Dev tools**  
