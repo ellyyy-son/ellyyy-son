@@ -13,7 +13,7 @@ I’m a **3rd Year Computer Science student** at Ateneo de Manila University, sp
 - 🌱 I enjoy **building random, fun little projects** ✨
 
 ## 🎵 Currently Listening
-[![Now Playing](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)](https://open.spotify.com/track/3Kljew0xyUD0fWUrk2Kj0S?si=83ef882df0ed4f10)
+[クリフハンガー – 日向坂46](https://open.spotify.com/track/3Kljew0xyUD0fWUrk2Kj0S?si=83ef882df0ed4f10)
 
 ---
 
