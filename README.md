@@ -10,9 +10,7 @@ I’m a **3rd Year Computer Science student** at Ateneo de Manila University, sp
 - 💻 I’m currently diving into **web development, business intelligence, machine learning, and big data methodologies**
 - 🎮 I love **video games**, especially **Nintendo titles**! I especially love Pokemon:D ⚡🐹
 - 🎌 I'm a Huge fan of **J-Media**, including **Jpop, anime, and manga**. Due to this, I am currently taking 日本語 lessons　🌸
-- 🌱 I enjoy **building random, fun little projects** ✨
-
-🎵 Currently listening to:[クリフハンガー – 日向坂46](https://open.spotify.com/track/3Kljew0xyUD0fWUrk2Kj0S?si=83ef882df0ed4f10)
+- 🌱 I enjoy **building random, fun little projects from time-to-time** ✨
 
 ---
 
@@ -28,7 +26,7 @@ Developed an **interactive Streamlit dashboard** to visualize social media engag
 Collected and analyzed online articles covering Marcos’ first six months in office using **LDA topic modeling and social network analysis** to uncover dominant themes, key actors, and information flows. This project **mapped monthly shifts in media framing and narrative focus**, highlighting evolving topics and influential figures over time.  
 [View Project →](https://github.com/ellyyy-son/marcos-news-coverage)
 
-### 🎮 Video Game Experiment
+### 🎮 Video Game
 **Python / Game Dev tools**  
 Mini-game projects inspired by **video games as artistic expression**, exploring **interactive storytelling and personalized experiences**.  
 [View Project →](https://github.com/YOUR_USERNAME/game-dev-experiments)
