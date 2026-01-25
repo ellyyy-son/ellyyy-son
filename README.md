@@ -56,7 +56,8 @@ Collected and analyzed online articles covering Marcos’ first six months in of
 ---
 
 ## 📈 GitHub Stats
-
+![Elly's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellyyy-son&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ellyyy-son&layout=compact&theme=radical)
 
 ---
 
