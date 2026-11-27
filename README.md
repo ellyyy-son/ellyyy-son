@@ -1,67 +1,141 @@
+Written for: people visiting your GitHub profile, mainly recruiters and other developers.
+
+I rewrote your profile README to match your resume and the new portfolio vibe. The full text is below to copy into your `ellyyy-son/ellyyy-son` README on GitHub. It's also saved at `C:\Users\Elly\AppData\Local\Temp\claude\5b0b740f4ac107ac\2661d0c8-114b-4bb2-8151-85a3c4bea4c1\scratchpad\README.md`, but that's a temporary folder that can get cleared.
+
+**What changed**
+- **Header:** you're now a 4th year with your honors listed. An animated purple typing line cycles "Data & Business Analytics", "CS @ Ateneo" and "Gotta query 'em all! ⚡". Your portfolio, LinkedIn and Instagram badges moved up top.
+- **About Me:** leads with Unilever, Shopee (3,000+ flagged accounts), your thesis and the IM Summit win. Your Nintendo, Pokémon and J-media bits are still there.
+- **New "Adventure Log" table:** your roles at Unilever, Shopee and MISA.
+- **Featured Projects:** your thesis and the DPWH dashboard, using your resume wording. PPop and Marcos are tucked into a collapsible "More projects" section, since they still have repos. Delete it if you want the README to match the resume exactly.
+- **"Inventory" (tech stack):** now matches your resume's skills list. I dropped TensorFlow, Hadoop, C++ and HTML/CSS, and added R, Java, Tableau, Power BI, PySpark, Next.js, Flask, Spring Boot, Linux, Power Apps, Power Automate, Azure and GCP.
+- **GitHub stats:** recolored from the hot-pink "radical" theme to your lavender, yellow and ink colors.
+
+**Two caveats**
+- **Missing logos:** a few badges (Power BI, Excel, Azure, Power Apps, Power Automate, Tableau) might show without a logo. The badge service's icon set has dropped some brand logos over time. The badges still display fine with just the text.
+- **Moving parts:** the typing line and the stats cards come from free outside services. If either is slow or down, that image just won't load.
+
+```markdown
+<div align="center">
+
 # Hi there 👋, I'm Elly Olegario
 
-Welcome to my GitHub!  
+<a href="https://www.ellyson.dev/"><img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=24&pause=1000&color=9A7AE0&center=true&vCenter=true&width=560&lines=Data+%26+Business+Analytics+%F0%9F%93%8A;CS+%40+Ateneo+de+Manila+University+%F0%9F%8E%93;Gotta+query+'em+all!+%E2%9A%A1" alt="Data & Business Analytics" /></a>
 
-I’m a **3rd Year Computer Science student** at Ateneo de Manila University, specializing in **Data Science and Analytics (DSA)** and **Enterprise Systems (ES)**. I'm passionate about **web development, data science, and interactive projects**.  
+**4th Year BS Computer Science @ Ateneo de Manila University**<br/>
+Data Science & Analytics · Enterprise Systems<br/>
+<sub>Magna Cum Laude standing · DOST-SEI JLSS Merit Scholar · Ateneo Director's List Scholar</sub>
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-ellyson.dev-9A7AE0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.ellyson.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hubert-olegario)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ellyyy_son)
 
-## 🎨 About Me
-- 💻 I’m currently diving into **web development, business intelligence, machine learning, and big data methodologies**
-- 🎮 I love **video games**, especially **Nintendo titles**! I especially love Pokemon:D ⚡🐹
-- 🎌 I'm a Huge fan of **J-Media**, including **J-Pop, anime, and manga**. Due to this, I am currently taking 日本語 lessons　🌸
-- 🌱 I enjoy **building random, fun little projects from time-to-time** ✨
-
----
-
-## 🚀 Projects
-
-### 📊 PPop Insights Dashboard
-**Tableau, Python, Streamlit, Pandas, NumPy**  
-Developed an **interactive Streamlit dashboard** to visualize social media engagement and musical analytics for 15 PPop idol groups, initially built in Tableau and later migrated to Streamlit. Users can **explore fan engagement patterns and musical characteristics** through intuitive, interactive charts and filters.  
-[View Project →](https://github.com/ellyyy-son/ppop-dashboard/)
-
-### 📝 Mapping News Coverage of Marcos’ First Six Months (2025)
-**Python, scikit-learn, NLTK, AutoMap, ORA**  
-Collected and analyzed online articles covering Marcos’ first six months in office using **LDA topic modeling and social network analysis** to uncover dominant themes, key actors, and information flows. This project **mapped monthly shifts in media framing and narrative focus**, highlighting evolving topics and influential figures over time.  
-[View Project →](https://github.com/ellyyy-son/marcos-news-coverage)
+</div>
 
 ---
 
-## 🔧 Tech Stack
+## ⚡ About Me
 
-### **Data Science & Big Data**
+- 🔭 Currently an **Integrated Planning Intern at Unilever Philippines**, building a process playbook and automating recurring supply chain reporting
+- 🛡️ Previously a **Fraud Projects & Analytics Intern at Shopee Philippines**, where my detection rules flagged **3,000+ high-risk seller accounts**
+- 🧪 Writing my thesis on **hate speech and constructive criticism classification in Filipino-English code-switched text**
+- 🏆 **Grand Champion** at the Information Management Summit 2026 Business Case Competition
+- 🎮 Huge **Nintendo** fan, especially **Pokémon** ⚡🐹 (and a little Zelda 🗡️)
+- 🎌 I love **J-Pop, anime, and manga**, so I'm learning 日本語 🌸
+- 🌱 I enjoy building random, fun little projects from time to time ✨, like [my portfolio](https://www.ellyson.dev/)!
+
+---
+
+## 🗺️ Adventure Log
+
+| | Role | Where | When |
+|:-:|---|---|---|
+| 🧴 | **Personal Care – Integrated Planning Intern** (Business Week 2026) | Unilever Philippines | Sep 2026 – Present |
+| 🛡️ | **Fraud – Projects and Analytics Intern** (Apprentice Program 2026) | Shopee Philippines | Jun 2026 – Aug 2026 |
+| ⚡ | **IT Skills and Development Officer** | Ateneo Management Information Systems Association | Oct 2025 – Present |
+
+---
+
+## 🚀 Featured Projects
+
+### 🥚 Hate Speech & Constructive Criticism Classification in Code-Switched Text
+`Python` `scikit-learn` `NLTK` · *Ongoing undergraduate thesis, Ateneo Social Computing Laboratory*
+
+Developing classification models for **constructiveness and hate speech** in **Filipino-English code-switched text**, a low-resource NLP domain, and benchmarking them on accuracy and reliability to establish performance baselines.
+
+### 📊 DPWH Transparency Dashboard
+`Python` `scikit-learn`
+
+Trained an **Isolation Forest** for anomaly detection and a **Random Forest** for initial risk scoring, surfacing **10,000+ irregularities** across public infrastructure project records. Built an **interactive dashboard** so anyone can monitor project transparency, explore risk insights, and spot potential anomalies.
+
+<details>
+<summary><b>🎒 More projects</b></summary>
+
+<br/>
+
+**📈 PPop Insights Dashboard** · `Tableau` `Python` `Streamlit` `Pandas`<br/>
+Interactive dashboard on social media engagement and musical analytics for 15 PPop idol groups. [View Project →](https://github.com/ellyyy-son/ppop-dashboard/)
+
+**📝 Mapping News Coverage of Marcos' First Six Months** · `Python` `scikit-learn` `NLTK`<br/>
+LDA topic modeling and social network analysis of online news to map shifts in media framing over time. [View Project →](https://github.com/ellyyy-son/marcos-news-coverage)
+
+</details>
+
+---
+
+## 🎒 Inventory
+
+**Languages**<br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-
-### **Languages & Frameworks**
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+**Data Science & Analytics**<br/>
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark%20%2F%20Spark%20SQL-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Web & Deployment**<br/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+**Tools & Cloud**<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
-![Elly's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellyyy-son&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ellyyy-son&layout=compact&theme=radical&count_private=true)
+
+<div align="center">
+
+![Elly's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellyyy-son&show_icons=true&count_private=true&hide_border=true&bg_color=FAF7FF&title_color=7D5CC7&icon_color=F2C94C&text_color=2F2452)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ellyyy-son&layout=compact&count_private=true&hide_border=true&bg_color=FAF7FF&title_color=7D5CC7&text_color=2F2452)
+
+</div>
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hubert-olegario)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ellyyy_son)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=about.me&logoColor=white)](https://www.ellyson.dev/)
+<div align="center">
+
+**Thanks for stopping by!** ✨<br/>
+<sub>Say hi through [my portfolio](https://www.ellyson.dev/) or [LinkedIn](https://www.linkedin.com/in/hubert-olegario). Gotta catch 'em all! ⚡</sub>
+
+</div>
+```
