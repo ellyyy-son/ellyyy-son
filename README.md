@@ -21,7 +21,6 @@ Data Science & Analytics · Enterprise Systems<br/>
 - 🔭 Currently an **Integrated Planning Intern at Unilever Philippines**, building a process playbook and automating recurring supply chain reporting
 - 🛡️ Previously a **Fraud Projects & Analytics Intern at Shopee Philippines**, where my detection rules flagged **3,000+ high-risk seller accounts**
 - 🧪 Writing my thesis on **hate speech and constructive criticism classification in Filipino-English code-switched text**
-- 🏆 **Grand Champion** at the Information Management Summit 2026 Business Case Competition
 - 🎮 Huge **Nintendo** fan, especially **Pokémon** ⚡🐹 (and a little Zelda 🗡️)
 - 🎌 I love **J-Pop, anime, and manga**, so I'm learning 日本語 🌸
 - 🌱 I enjoy building random, fun little projects from time to time ✨, like [my portfolio](https://www.ellyson.dev/)!
