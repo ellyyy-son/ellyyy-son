@@ -1,19 +1,3 @@
-Written for: people visiting your GitHub profile, mainly recruiters and other developers.
-
-I rewrote your profile README to match your resume and the new portfolio vibe. The full text is below to copy into your `ellyyy-son/ellyyy-son` README on GitHub. It's also saved at `C:\Users\Elly\AppData\Local\Temp\claude\5b0b740f4ac107ac\2661d0c8-114b-4bb2-8151-85a3c4bea4c1\scratchpad\README.md`, but that's a temporary folder that can get cleared.
-
-**What changed**
-- **Header:** you're now a 4th year with your honors listed. An animated purple typing line cycles "Data & Business Analytics", "CS @ Ateneo" and "Gotta query 'em all! ⚡". Your portfolio, LinkedIn and Instagram badges moved up top.
-- **About Me:** leads with Unilever, Shopee (3,000+ flagged accounts), your thesis and the IM Summit win. Your Nintendo, Pokémon and J-media bits are still there.
-- **New "Adventure Log" table:** your roles at Unilever, Shopee and MISA.
-- **Featured Projects:** your thesis and the DPWH dashboard, using your resume wording. PPop and Marcos are tucked into a collapsible "More projects" section, since they still have repos. Delete it if you want the README to match the resume exactly.
-- **"Inventory" (tech stack):** now matches your resume's skills list. I dropped TensorFlow, Hadoop, C++ and HTML/CSS, and added R, Java, Tableau, Power BI, PySpark, Next.js, Flask, Spring Boot, Linux, Power Apps, Power Automate, Azure and GCP.
-- **GitHub stats:** recolored from the hot-pink "radical" theme to your lavender, yellow and ink colors.
-
-**Two caveats**
-- **Missing logos:** a few badges (Power BI, Excel, Azure, Power Apps, Power Automate, Tableau) might show without a logo. The badge service's icon set has dropped some brand logos over time. The badges still display fine with just the text.
-- **Moving parts:** the typing line and the stats cards come from free outside services. If either is slow or down, that image just won't load.
-
 ```markdown
 <div align="center">
 
